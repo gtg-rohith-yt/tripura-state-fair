@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 850" width="600" height="850">
+  <title>Tripura State Map</title>
+  <desc>Stylized vector outline map of Tripura, India.</desc>
+  <path d="M318 35
+           C286 48 270 72 254 98
+           C238 124 222 145 213 176
+           C205 203 194 222 183 245
+           C169 274 157 302 151 334
+           C145 366 130 394 118 422
+           C105 452 98 484 104 513
+           C111 545 129 567 143 594
+           C156 620 169 647 171 678
+           C174 711 166 738 176 766
+           C184 790 203 808 225 815
+           C247 822 270 816 289 804
+           C311 790 325 768 339 745
+           C355 718 368 696 389 677
+           C409 658 434 645 455 625
+           C477 604 493 579 500 549
+           C508 517 502 489 489 464
+           C476 439 459 417 449 390
+           C439 364 442 337 449 310
+           C457 279 469 252 464 222
+           C460 193 445 170 426 148
+           C407 126 391 103 376 79
+           C361 55 343 38 318 35 Z"
+        fill="#f2b233" stroke="#1f2937" stroke-width="10"
+        stroke-linejoin="round"/>
+  <text x="300" y="440" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="46" font-weight="700"
+        fill="#1f2937">TRIPURA</text>
+  <text x="300" y="480" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="24"
+        fill="#1f2937">INDIA</text>
+</svg>
