@@ -1,18 +1,24 @@
 🇮🇳 Tripura State Fair — Centaur Team
 
-<div align="center">🌿 Discover Tripura
+<div align="center">
 
-A Digital Journey Through the Heritage, Culture & Beauty of Tripura
+# 🌿 Discover Tripura
 
-""Live Website" (https://img.shields.io/badge/🌐_Live_Website-Visit_Site-0A66C2?style=for-the-badge)" (https://tripura-state-fair.vercel.app/)
-""GitHub" (https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)" (https://github.com/gtg-rohith-yt/tripura-state-fair)
-""React" (https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)" (https://react.dev/)
-""Vite" (https://img.shields.io/badge/Vite-Fast_Build-646CFF?style=for-the-badge&logo=vite&logoColor=white)" (https://vitejs.dev/)
-""Vercel" (https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel)" (https://vercel.com/)
+### A Digital Journey Through the Heritage, Culture & Beauty of Tripura
 
-<br>Explore the story of Tripura through an immersive digital experience.
+[![Live Website](https://img.shields.io/badge/🌐_Live_Website-Visit_Site-0A66C2?style=for-the-badge)](https://tripura-state-fair.vercel.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gtg-rohith-yt/tripura-state-fair)
+[![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-Fast_Build-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-</div>---
+<br>
+
+**Explore the story of Tripura through an immersive digital experience.**
+
+</div>
+
+---
 
 🏛️ About the Project
 
