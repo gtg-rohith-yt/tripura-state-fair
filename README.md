@@ -1,16 +1,269 @@
-# React + Vite
+🇮🇳 Tripura State Fair — Centaur Team
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+<div align="center">🌿 Discover Tripura
 
-Currently, two official plugins are available:
+A Digital Journey Through the Heritage, Culture & Beauty of Tripura
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+""Live Website" (https://img.shields.io/badge/🌐_Live_Website-Visit_Site-0A66C2?style=for-the-badge)" (https://tripura-state-fair.vercel.app/)
+""GitHub" (https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)" (https://github.com/gtg-rohith-yt/tripura-state-fair)
+""React" (https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)" (https://react.dev/)
+""Vite" (https://img.shields.io/badge/Vite-Fast_Build-646CFF?style=for-the-badge&logo=vite&logoColor=white)" (https://vitejs.dev/)
+""Vercel" (https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel)" (https://vercel.com/)
 
-## React Compiler
+<br>Explore the story of Tripura through an immersive digital experience.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+</div>---
 
-## Expanding the Oxlint configuration
+🏛️ About the Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Tripura State Fair is an interactive educational website created for the PHMSS State Fair by the Centaur Team.
+
+The project presents Tripura — one of India's northeastern states — through a modern web experience focused on its:
+
+- 🏛️ Heritage
+- 📜 History
+- 🎭 Culture
+- 🌿 Natural beauty
+- 🗺️ Geography
+- 🏰 Architecture
+- 🌊 Tourist destinations
+- 🇮🇳 Unique identity
+
+Instead of presenting information as a traditional project document, this project transforms the research into a modern digital experience that can be explored through a web browser.
+
+---
+
+✨ Project Vision
+
+«"Discover Tripura. Experience its heritage."»
+
+The goal of this project is to combine education, creativity and technology to create an engaging digital representation of Tripura.
+
+The website is designed to make learning about the state more visual, accessible and interesting for students, visitors and anyone curious about Tripura.
+
+---
+
+🌄 What You'll Explore
+
+🏛️ Heritage
+
+Discover the historical and architectural identity of Tripura through its important heritage locations and landmarks.
+
+🌿 Nature
+
+Explore the state's forests, landscapes, hills, lakes and other natural attractions.
+
+🎭 Culture
+
+Learn about Tripura's diverse cultural traditions, arts, customs and heritage.
+
+🗺️ Geography
+
+Understand Tripura's location, landscape and geographical characteristics.
+
+🧭 Tourism
+
+Explore destinations and places that represent the beauty and identity of Tripura.
+
+📚 Educational Information
+
+The website combines researched information with visual presentation to create an easy-to-explore educational experience.
+
+---
+
+💎 Featured Highlight
+
+🌊 Neermahal
+
+One of the key heritage highlights associated with Tripura is Neermahal, the magnificent water palace situated in Rudrasagar Lake.
+
+Its distinctive architecture and location make it an important representation of Tripura's royal heritage and cultural history.
+
+---
+
+🎨 Design Approach
+
+The website follows a modern visual-first approach while keeping the subject rooted in Tripura's heritage.
+
+Design principles
+
+Modern UI
+   +
+Visual Storytelling
+   +
+Indian Heritage
+   +
+Educational Content
+   =
+Interactive Tripura Experience
+
+The project focuses on:
+
+- ✨ Clean visual presentation
+- 🖼️ Image-driven storytelling
+- 📱 Responsive layouts
+- 🧭 Simple navigation
+- 🎨 Modern interface design
+- ⚡ Fast web experience
+
+---
+
+🛠️ Built With
+
+Technology| Role
+⚛️ React| Frontend UI
+⚡ Vite| Development & build tooling
+🟨 JavaScript| Application logic
+🎨 CSS| Styling & responsive design
+🖼️ Web Assets| Visual storytelling
+▲ Vercel| Deployment
+
+---
+
+📂 Project Structure
+
+tripura-state-fair/
+│
+├── 📁 public/
+│   └── Static assets
+│
+├── 📁 src/
+│   ├── Components
+│   ├── Pages
+│   ├── Styles
+│   └── Application code
+│
+├── 📁 dist/
+│   └── Production build
+│
+├── 📄 index.html
+├── 📄 package.json
+├── 📄 package-lock.json
+├── 📄 vite.config.js
+└── 📄 README.md
+
+---
+
+🚀 Run the Project Locally
+
+1. Clone the repository
+
+git clone https://github.com/gtg-rohith-yt/tripura-state-fair.git
+
+2. Enter the project directory
+
+cd tripura-state-fair
+
+3. Install dependencies
+
+npm install
+
+4. Start the development server
+
+npm run dev
+
+5. Open the local website
+
+Vite will provide a local development URL, usually:
+
+http://localhost:5173
+
+---
+
+🌐 Live Website
+
+🚀 Experience the Project
+
+https://tripura-state-fair.vercel.app/
+
+The project is deployed using Vercel and is available online for viewing.
+
+---
+
+📸 Screenshots
+
+«Add screenshots of the actual website here to make the GitHub repository visually attractive.»
+
+🏠 Homepage
+
+![Tripura State Fair Homepage](./screenshots/homepage.png)
+
+🏛️ Heritage
+
+![Tripura Heritage](./screenshots/heritage.png)
+
+🌊 Neermahal
+
+![Neermahal](./screenshots/neermahal.png)
+
+📱 Mobile View
+
+![Mobile Responsive View](./screenshots/mobile.png)
+
+---
+
+🎯 Objectives
+
+This project was developed with the following objectives:
+
+- 📚 Present information about Tripura in an educational format.
+- 🎨 Transform research into an engaging digital presentation.
+- 💻 Demonstrate modern web-development skills.
+- 🌿 Highlight Tripura's natural beauty and heritage.
+- 🏛️ Showcase important cultural and historical aspects.
+- 🇮🇳 Encourage appreciation of India's diverse regional heritage.
+
+---
+
+🔮 Future Ideas
+
+The project can be expanded with additional interactive features such as:
+
+- 🗺️ Interactive Tripura map
+- 📍 Destination explorer
+- 🏛️ Detailed heritage timeline
+- 🎭 Culture & festival section
+- 📸 Interactive image gallery
+- 🎧 Traditional music experience
+- 🌐 Multi-language support
+- 🧭 Tourist route explorer
+- 📱 Progressive Web App support
+- 🏆 Interactive quiz about Tripura
+
+---
+
+👥 Team
+
+🐎 Centaur Team
+
+PHMSS State Fair
+
+This website was created as part of the State Fair project representing Tripura.
+
+---
+
+📚 Educational Purpose
+
+This project is primarily intended for educational, exhibition and demonstration purposes.
+
+Information and third-party visual assets used in the project should be credited and used according to their respective licenses and permissions.
+
+---
+
+❤️ Made With
+
+<div align="center">💻 Technology
+
+🎨 Creativity
+
+📚 Research
+
+🇮🇳 Love for India's Heritage
+
+<br>🌿 Discover Tripura
+
+🏛️ Preserve Heritage • 🌄 Celebrate Culture • 🇮🇳 Explore India
+
+<br>⭐ If you enjoyed the project, consider giving this repository a star!
+
+</div>
